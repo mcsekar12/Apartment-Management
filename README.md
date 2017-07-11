@@ -14,6 +14,7 @@ step 3 :
 Install dependencies and run 
 
 npm install
+
 npm run serve-dev
 
 

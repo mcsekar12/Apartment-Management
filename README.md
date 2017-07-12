@@ -17,6 +17,11 @@ npm install
 
 npm run serve-dev
 
+step 4 :
+Setting node environment
+
+for Development : npm run env NODE_ENV= development
+for Production : npm run env NODE_ENV=production
 
 
 Coming Soon : API Documentation
